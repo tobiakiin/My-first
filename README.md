@@ -22,7 +22,7 @@ First School Leaving Certificate, 2003 to 2010
 
 ## Certifications
 
-- Data Analytics (2026), Information Technology Academy, Iya Abubakar Institute of ICT, Ahmadu Bello University, Zaria
+- Data Analytics (November 2026 to present), Information Technology Academy, Iya Abubakar Institute of ICT, Ahmadu Bello University, Zaria
 - Microsoft Digital Literacy (2026), Information Technology Academy, Iya Abubakar Institute of ICT, Ahmadu Bello University, Zaria
 
 ## Experience
